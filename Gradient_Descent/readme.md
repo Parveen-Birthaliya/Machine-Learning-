@@ -1,6 +1,8 @@
 # Gradient Descent (GD):
 It’s an optimization algorithm used to minimize a loss function by iteratively updating parameters in the opposite direction of the gradient. Core idea: move step-by-step towards the global or local minimum.
 
+Note: I have created medium blog in detail , you can read my blog on 🔗 https://medium.com/@Bit_Picker
+
 **Class for simple 2D dataset**
 ```python
 lass MySGD:
